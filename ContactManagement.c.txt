@@ -32,7 +32,7 @@ main:
 
     printf("\n\n\t\tMAIN MENU\n\t\t\n\t\t1. Add a new Contact\n\t\t2. List all Contacts\n\t\t3. Search for contact\n\t\t4. Edit a Contact\n\t\t5. Delete a Contact\n\t\t6. Exit\n\t\t\n\t\t");
 
-    printf("Enter the choice:");
+    printf("Enter choice:");
 
     scanf("%d",&ch);
 
